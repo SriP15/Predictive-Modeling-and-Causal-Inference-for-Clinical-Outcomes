@@ -31,18 +31,6 @@ Target variable:
 
 - Readmitted within 30 days (`readmitted_30d`)
 
----
-
-## Project Structure
-
-```
-├── 01_EDA.ipynb
-├── 02_Feature_Engineering_Modeling.ipynb
-├── 03_Causal_Inference.ipynb
-├── data/
-├── figures/
-└── README.md
-```
 
 ---
 
